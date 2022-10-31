@@ -1,0 +1,19 @@
+.dropdown * {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.dropdownItem {
+    padding: 20px;
+    background-color: #2F606F;
+}
+
+.dropdownButton {
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    z-index: 1;
+}

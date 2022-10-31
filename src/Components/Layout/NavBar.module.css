@@ -1,0 +1,39 @@
+.header {
+    height: 3rem;
+    width: 100%;
+    background-color: hsl(194, 40%, 31%);
+    width: 100%;
+}
+
+.ul {
+    display: flex;
+    width: 60%;
+    list-style: none;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.li {
+    text-transform: capitalize;
+}
+
+.logo {
+    width: 20%;
+    font-weight: 700;
+    letter-spacing: 4px;
+    font-size: 1.3rem;
+    line-height: 3rem;
+    color: azure;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.li *{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: azure;
+}
