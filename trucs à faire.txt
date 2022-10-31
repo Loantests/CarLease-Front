@@ -1,2 +1,0 @@
-Delete, edit, list pour les clients, voitures et contrats
-Voir la liste des contrats de chaque client et de chaque voiture
